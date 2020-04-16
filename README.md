@@ -2,4 +2,8 @@
 HHHHHHHHHHelloWorld Servlet repo example with corresponding Dockerfile!fff
 webhook/build tigger/test
 scp poll/trigger/test
-buils periodically
+build periodically/testing
+
+
+mvn build process
+
