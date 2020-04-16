@@ -5,4 +5,4 @@ scp poll/trigger/test
 build periodically/testing
 
 
-mvn pom 
+mvn pom j
