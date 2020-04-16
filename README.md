@@ -5,6 +5,4 @@ scp poll/trigger/test
 build periodically/testing
 
 
-mvn build process
-hg
-
+mvn pom 
