@@ -6,4 +6,5 @@ build periodically/testing
 
 
 mvn build process
+hg
 
